@@ -1,0 +1,38 @@
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\bin\Debug\com_project_server.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\bin\Debug\com_project_server.exe
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\bin\Debug\com_project_server.pdb
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\obj\Debug\com_project_server.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\obj\Debug\com_project_server.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\obj\Debug\com_project_server.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\obj\Debug\com_project_server.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\obj\Debug\com_project_server.exe
+c:\users\admin\documents\visual studio 2013\Projects\com_project_server\com_project_server\obj\Debug\com_project_server.pdb
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\bin\Debug\com_project_server.exe.config
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\obj\Debug\com_project_server.exe
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\obj\Debug\com_project_server.pdb
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\bin\Debug\com_project_server.exe
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\bin\Debug\com_project_server.pdb
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\obj\Debug\com_project_server.csprojResolveAssemblyReference.cache
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\obj\Debug\com_project_server.Form1.resources
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\obj\Debug\com_project_server.Properties.Resources.resources
+D:\uni\مشروع البنيية\coms\com_project_server\com_project_server\obj\Debug\com_project_server.csproj.GenerateResource.Cache
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\bin\Debug\com_project_server.exe.config
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\bin\Debug\com_project_server.exe
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\bin\Debug\com_project_server.pdb
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\obj\Debug\com_project_server.csprojAssemblyReference.cache
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\obj\Debug\com_project_server.Form1.resources
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\obj\Debug\com_project_server.Properties.Resources.resources
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\obj\Debug\com_project_server.csproj.GenerateResource.cache
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\obj\Debug\com_project_server.exe
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\obj\Debug\com_project_server.pdb
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com احسان حاضري, مرام عقيل ,اسراء ممحمد ,اماني النسر\com_project_server\com_project_server\obj\Debug\com_project_server.Form2.resources
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\bin\Debug\com_project_server.exe.config
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\bin\Debug\com_project_server.exe
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\bin\Debug\com_project_server.pdb
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\obj\Debug\com_project_server.csprojAssemblyReference.cache
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\obj\Debug\com_project_server.Form1.resources
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\obj\Debug\com_project_server.Form2.resources
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\obj\Debug\com_project_server.Properties.Resources.resources
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\obj\Debug\com_project_server.csproj.GenerateResource.cache
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\obj\Debug\com_project_server.exe
+G:\جامعة\السنة الرابعة\بنية وتنظيم الحواسيب 2\com عبد العزيز شحرور - محمد محمد صالح (حجرة ورقة مقص)\com_project_server\com_project_server\obj\Debug\com_project_server.pdb
